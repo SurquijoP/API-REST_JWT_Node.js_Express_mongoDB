@@ -1,5 +1,6 @@
 # 🔑 API REST Node.jde_JWT_Express_MongoDB( Autorizacion y roles).
 API que permite hacer un CRUD de productos, permite autenticar a usuarios y establecer roles para la autorizacion de rutas en el servidor.
+![jwt](https://user-images.githubusercontent.com/106114288/177060222-0810a96f-e0f2-4f4b-9281-f85c18e0f960.jpg)
 
 
 # 📚 Lenguage (JavaScript, Node.js)
