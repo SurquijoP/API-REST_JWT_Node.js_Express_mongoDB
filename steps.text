@@ -1,0 +1,5 @@
+npm i : npm i express bcryptjs cors dotenv jsonwebtoken mongoose morgan helmet
+npm i @babel/core @babel/cli @babel/node @babel/preset-env nodemon -D
+establecr scripts(production,dev and node(babel))
+mk dircontrollers libs middlewares models routes
+routes
